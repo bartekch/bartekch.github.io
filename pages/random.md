@@ -27,3 +27,9 @@ in packages' examples: `donttest` and `dontrun`
 in `dplyr`: `min_rank`, `with_order`, `data_frame`, `bind_rows`
 
 package `mi`: `missing.pattern.plot`, `mi.info`
+
+
+
+### Links
+
+http://jmcglone.com/guides/github-pages/
